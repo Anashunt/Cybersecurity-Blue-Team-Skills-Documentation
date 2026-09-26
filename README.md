@@ -1,5 +1,5 @@
 
-# Cybersecurity-Blue-Team-Portfolio
+# Cybersecurity-Blue-Team-Skills-Documentation
 
 A hands-on cybersecurity portfolio documenting practical training and investigations across **SOC operations, Blue Team security, Network Traffic Analysis, Malware Analysis, IDS/IPS, Phishing Analysis, Digital Forensics, DFIR, and Threat Intelligence**.
 
